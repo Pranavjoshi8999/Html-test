@@ -1,0 +1,63 @@
+.grp1{
+    border: 1px solid #000;
+    padding: 20px;
+}
+.grp1 p {
+    font-size: 30px;
+    padding: 20px;
+    width: 100%;
+}
+.grp1 h1{
+    padding-left: 20px;
+}
+.grp1 a{
+     font-size: 25px;
+     color: #000;
+     padding: 20px;
+     font-family: 'Inter', sans-serif;
+}
+.grp2 a{
+    font-size: 25px;
+    color: #000;
+    padding: 20px;
+    top: 742px;
+    left: 58px;
+}
+.grp3 a{
+    font-size: 25px;
+    color: #000;
+    padding: 20px;
+  
+}
+.font{
+    font-size: 50px;
+}
+
+.grp2{
+    width: 1051px;
+    height: 894;
+    margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+.grp3{
+    
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    
+}
+.grp3 ol{
+    font-size: 30px;
+    width: 100%;
+}
+.grp3 li{
+    padding-top: 10px;
+}
+.grp2 img{
+    width: 1051px;
+    height: 762px;
+}
+.hrading{
+    padding-left: 20px;
+}
